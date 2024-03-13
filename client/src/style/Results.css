@@ -1,0 +1,47 @@
+.result-item{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 61px;
+}
+
+.result-items{
+    margin-top: 20px;
+}
+
+.result-img{
+    margin-left: 40px;
+}
+
+.result-text{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.results-link{
+    text-decoration: none;
+    background-color: #E01A1A;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 5px 5px;
+    margin-left: 99px;
+}
+
+.actor-info{
+    margin-top: 150px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.actor-info span{
+    color: #E01A1A;
+}
+
+.result-number{
+    width: min-content;
+    color: #E01A1A;
+    font-weight: bold;
+    font-size: larger;
+    position: absolute;
+    margin-top: 189px;
+}

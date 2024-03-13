@@ -1,0 +1,43 @@
+.input-column{
+    display: grid;
+    justify-content: center;
+    margin-top: 220px;
+}
+
+.input-1{
+    height: 30px;
+    width: 250px;
+}
+
+.input-2{
+    height: 30px;
+    width: 250px;
+    margin-top: 5px;
+}
+
+.input-text-login{
+    color: #E01A1A;
+    margin-left: 65px;
+}
+
+.login-btn{
+    color: white;
+    background-color: #E01A1A;
+    padding: 10px 10px;
+    margin-left: 78px;
+    cursor: pointer;
+    border: none;
+}
+
+.input-button{
+    padding-top: 5px;
+}
+
+.regist-href{
+    color: #E01A1A;
+}
+
+.err-text{
+    font-size: small;
+    color: red;
+}

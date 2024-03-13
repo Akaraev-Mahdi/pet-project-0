@@ -1,0 +1,31 @@
+.img-line{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-1{
+    cursor: pointer;
+}
+
+.or{
+    margin-top: 70px;
+    padding: 40px 40px;
+}
+
+.quiz-btn{
+    margin-top: 300px;
+    display: grid;
+    justify-content: center;
+}
+
+.quiz-button{
+    background-color: #E01A1A;
+    color: white;
+    padding: 10px 10px;
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+}

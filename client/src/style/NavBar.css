@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    margin: 0px 61px;
+}
+
+.text {
+    margin: 7px;
+    color: #fff;
+    margin-right: 25px;
+}
+
+.header{
+    background-color: #E01A1A;
+}
+
+.header-line{
+    display: flex;
+    align-items: center;
+}
+
+.nav-items{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 25px;
+}
+
+.button{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    border: 1px solid;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.btn{
+    margin-left: auto;
+}

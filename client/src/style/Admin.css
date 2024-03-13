@@ -1,0 +1,45 @@
+.admin-line{
+    display: grid;
+    margin-left: 61px;
+}
+
+.admin-input-1, .admin-input-2, .admin-input-3{
+    width: 200px;
+    height: 25px;
+}
+
+.admin-input-2{
+    margin-top: 7px;
+    margin-bottom: 15px;
+}
+
+.input-file span {
+	cursor: pointer;
+	color: white;
+	border-radius: 4px;
+	background-color: #E01A1A;
+	padding: 5px 5px;
+}
+
+.input-file input[type=file] {
+	position: absolute;
+	z-index: -1;
+	opacity: 0;
+	display: block;
+	width: 0;
+	height: 0;
+}
+
+.input-file {
+    width: 202px;
+}
+
+.admin-btn-1, .admin-btn-2{
+    color: white;
+    background-color: #E01A1A;
+    padding: 10px 10px;
+    margin-top: 15px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
